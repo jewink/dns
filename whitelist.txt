@@ -1,2 +1,4 @@
 *.jewink.it
 *.wkb.name
+*.mailbox.org
+*.schuldock.de
