@@ -1,0 +1,2 @@
+*.jewink.it
+*.wkb.name
